@@ -11,6 +11,7 @@ You have to use Chrome or Chrome-like browser with the Tampermonkey extension in
 Click on the Tampermonkey icon, click Dashboard, click the Tab Utilities and paste the URL
 
 https://raw.githubusercontent.com/mieckert/gslides-extensions-tm/main/gslides-extensions.user.js
+
 into Import from URL textbox. On the next page click "Install" or "Reinstall".
 
 ## Functionality
@@ -39,8 +40,8 @@ H J K L
 ```
 
 The middle keys (J/K) make the whole object smaller/larger, the other two keys around it in the 
-horizontal make the object smaller/larger horizontally, the two keys in the (well almost) vertical 
-(N, I) make the object smaller/larger vertically.
+horizontal (H/L) make the object smaller/larger horizontally, and the two keys in the (well almost) 
+vertical (N/I) make the object smaller/larger vertically.
 
 #### Remarks:
 (1) The original keyboard shortcut for Zoom to fit (<kbd>⌘ Command</kbd> + <kbd>⌥ Option</kbd> + <kbd>[</kbd>) 
