@@ -21,12 +21,12 @@ into Import from URL textbox. On the next page click "Install" or "Reinstall".
 Note that keyboard shortcuts are only tested for Mac (and developed from the perspective 
 of a German keyboard).  Feedback for Windows/Linux or other Language keyboards is welcome!
 
-| Shortcut                                                  | Description                                                                                                                  |
-| --------------------------------------------------------- | --------------------------- |
-| <kbd>⌘ Command</kbd> + <kbd>⌥ Option</kbd> + <kbd>0</kbd> | Zoom to fit (1)             |
-| <kbd>⌥ Option</kbd> + <kbd>⌃ Control</kbd> + <kbd>L</kbd> | Resize larger horizontally  |
-| <kbd>⌥ Option</kbd> + <kbd>⌃ Control</kbd> + <kbd>H</kbd> | Resize smaller horizontally |
-| <kbd>⌥ Option</kbd> + <kbd>⌃ Control</kbd> + <kbd>M</kbd> | Resize smaller vertically   |
+| Shortcut                                                   | Description                                                                                                                  |
+| ---------------------------------------------------------- | --------------------------- |
+| <kbd>⌘ Command</kbd> + <kbd>⌥ Option</kbd> + <kbd>0</kbd>  | Zoom to fit (1)             |
+| <kbd>⌘ Command</kbd> + <kbd>⌃ Control</kbd> + <kbd>L</kbd> | Resize larger horizontally  |
+| <kbd>⌘ Command</kbd> + <kbd>⌃ Control</kbd> + <kbd>H</kbd> | Resize smaller horizontally |
+| <kbd>⌘ Command</kbd> + <kbd>⌃ Control</kbd> + <kbd>M</kbd> | Resize smaller vertically   |
 
 #### Understanding the resizing keyboard shortcuts
 
