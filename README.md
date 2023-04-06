@@ -6,7 +6,9 @@ better keyboard shortcuts that are easier to memorize and typeable on non-US key
 and (2) stops slides form advancing when scrolling with the mouse.
 
 ## Installation
-You have to use Chrome or Chrome-like browser with the Tampermonkey extension installed.
+You have to use Chrome or Chrome-like browser with the [Tampermonkey](https://www.tampermonkey.net/) 
+extension installed (typically from the 
+[Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)).
 
 Click on the Tampermonkey icon, click Dashboard, click the Tab Utilities and paste the URL
 
